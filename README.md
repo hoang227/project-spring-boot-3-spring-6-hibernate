@@ -16,7 +16,7 @@ Welcome to the repository where I have stored the things and code I learned on S
 
 To make the most of this repository, follow these steps:
 
-1. **Clone the Repository:**
+**Clone the Repository**
    ```bash
    git clone https://github.com/hoang227/project-spring-boot-3-spring-6-hibernate.git
    ```
