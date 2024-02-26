@@ -1,6 +1,6 @@
 # Spring Boot 3, Spring 6, and Hibernate Learning Repository
 
-[![Development Status](https://img.shields.io/badge/status-development-yellow)](https://your-project-url)
+[![Development Status](https://img.shields.io/badge/status-development-yellow)](https://github.com/hoang227/project-spring-boot-3-spring-6-hibernate)
 
 Welcome to the repository where I have stored the things and code I learned on Spring Boot 3, Spring 6, and Hibernate. This repository serves as a comprehensive resource to review and practice the concepts covered in the course.
 
