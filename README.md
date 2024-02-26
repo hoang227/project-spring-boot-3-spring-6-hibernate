@@ -3,7 +3,7 @@
 Welcome to the repository where I have stored the things and code I learned on Spring Boot 3, Spring 6, and Hibernate. This repository serves as a comprehensive resource to review and practice the concepts covered in the course.
 
 
-## Course Overview
+## Overview
 
 - **Spring Boot 3:** Introduction to the latest version of Spring Boot, focusing on its features, enhancements, and best practices.
 
